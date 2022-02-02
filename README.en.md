@@ -26,6 +26,6 @@
 #### Update log
 ### 0.11
 
-- Only the chemical equation solving program V0.11 https://github.com/chenghaotian/Cheq
+- Only the chemical equation solving program V0.11 is supported https://github.com/chenghaotian/Cheq
 
 - Support China, Britain, Japan and Russia (Chinese includes simplified, traditional and classical Chinese)
