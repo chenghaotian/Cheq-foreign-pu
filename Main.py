@@ -4,7 +4,7 @@ import tkinter
 from tkinter import messagebox
 
 w = tkinter.Tk()
-w.title("Cheq-foreign-pu V0.11")
+w.title("Cheq-foreign-pu V0.12")
 w.geometry("330x130")
 lj = open("./languages_json.json", encoding="utf-8")
 lj = json.load(lj)

@@ -1,4 +1,4 @@
-﻿化学方程式求解 V0.11
+﻿化学方程式求解 V0.12
 左边式子
 右边式子
 错误
@@ -19,7 +19,7 @@
 欢迎访问: github.com/chenghaotian
 欢迎访问: gitee.com/sky-eye
 欢迎致信: dboycht@qq.com
-化学方程式を解くV 0.11
+化学方程式を解くV 0.12
 左の式
 右式
 エラー
@@ -40,7 +40,7 @@ Arial
 ようこそ:github.com/chenghaotian
 いらっしゃいませ:gitee.com/sky-eye
 歓迎の手紙:dboycht@qq.com
-Решение химических уравнений V0.11
+Решение химических уравнений V0.12
 левое выражение
 правое выражение
 ошибка
@@ -61,7 +61,7 @@ Arial
 Добро пожаловать в: github.com/chenghaotian
 Добро пожаловать: gitee.com/sky-eye
 приветственные письма:dboycht@qq.com
-Chemical equation solving v0.11
+Chemical equation solving v0.12
 Left formulas
 Right formulas
 error
@@ -82,7 +82,7 @@ Example: K₂MnO₄+Ca(OH)₂ --> k2mn1o4+ca1o2h2(all in lower case)
 Welcome to: github.com/chenghaotian
 Welcome to: gitee.com/sky-eye
 Welcome to: dboycht@qq.com
-化學方程式求解V0.11
+化學方程式求解V0.12
 左邊式子
 右邊式子
 錯誤
@@ -103,7 +103,7 @@ Welcome to: dboycht@qq.com
 歡迎訪問：github.com/chenghaotian
 歡迎訪問：gitee.com/sky-eye
 歡迎致信：dboycht@qq.com
-化学方程式乞释 V0.11
+化学方程式乞释 V0.12
 左子式子
 右子式右子
 误矣
