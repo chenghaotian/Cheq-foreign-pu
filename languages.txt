@@ -1,0 +1,126 @@
+﻿化学方程式求解 V0.11
+左边式子
+右边式子
+错误
+不遵循质量守恒定律
+本程序只支持左右最多四项
+作者:成昊天(D BOY)
+开始
+幼圆
+角标输入
+结果
+错误
+无输入
+无法解析,请检查
+不支持四位以上运算
+对不起,运算集太小
+请将化学式这样书写
+例:K₂MnO₄+Ca(OH)₂ --> k2mn1o4+ca1o2h2(均小写)
+欢迎访问: github.com/chenghaotian
+欢迎访问: gitee.com/sky-eye
+欢迎致信: dboycht@qq.com
+化学方程式を解くV 0.11
+左の式
+右式
+エラー
+質量保存の法則に従わない
+本プログラムは左右最大4項目しかサポートしていません
+作者：成昊天（D BOY）
+スタート
+Arial
+アングル入力
+結果
+エラー
+入力なし
+解析できません。確認してください。
+4ビット以上の演算はサポートされていません
+すみません、演算セットが小さすぎます
+化学式をこう書いてください
+例：K₂MnO₄+Ca(OH)₂ --> k2mn1o4+ca1o2h2(いずれも小文字)
+ようこそ:github.com/chenghaotian
+いらっしゃいませ:gitee.com/sky-eye
+歓迎の手紙:dboycht@qq.com
+Решение химических уравнений V0.11
+левое выражение
+правое выражение
+ошибка
+несоблюдение закона сохранения массы
+Эта программа поддерживает максимум четыре
+Автор: 成昊天 (D BOY)
+Начало
+молодняк
+вход угла
+результат
+ошибка
+без ввода
+Невозможно обработать, проверьте
+не поддерживаются операции с более чем четырьмя битами
+Прости, слишком мало операций
+Напишите так химически
+Пример: K₂MnO₄+Ca(OH)₂ --> k2mn1o4+ca1o2h2
+Добро пожаловать в: github.com/chenghaotian
+Добро пожаловать: gitee.com/sky-eye
+приветственные письма:dboycht@qq.com
+Chemical equation solving v0.11
+Left formulas
+Right formulas
+error
+Does not follow the law of conservation of mass
+This program only supports up to four items
+Author: 成昊天(D boy)
+start
+Immature
+Input corner mark
+result
+error
+No input
+Unable to parse, please check
+More than four digit operations are not supported
+Sorry, the operation set is too small
+Please write the chemical formula like this
+Example: K₂MnO₄+Ca(OH)₂ --> k2mn1o4+ca1o2h2(all in lower case)
+Welcome to: github.com/chenghaotian
+Welcome to: gitee.com/sky-eye
+Welcome to: dboycht@qq.com
+化學方程式求解V0.11
+左邊式子
+右邊式子
+錯誤
+不遵循品質守恆定律
+本程式只支持左右最多四項
+作者：成昊天（D BOY）
+開始
+幼圓
+角標輸入
+結果
+錯誤
+無輸入
+無法解析，請檢查
+不支持四個式子以上運算
+對不起，運算集太小
+請將化學式這樣書寫
+例：K₂MnO₄+Ca（OH）₂--> k2mn1o4+ca1o2h2（均小寫）
+歡迎訪問：github.com/chenghaotian
+歡迎訪問：gitee.com/sky-eye
+歡迎致信：dboycht@qq.com
+化学方程式乞释 V0.11
+左子式子
+右子式右子
+误矣
+不遵方守恒律
+程本但就是左右最多四项了
+作者：成昊天（D BOY）
+始
+幼圆
+角标输入
+终
+误矣
+无输者入焉
+不可解，请案之
+不支四以上计
+负之，运计其细
+请以化学式书之
+例：K₂MnO₄+Ca（OH）₂--> k2mn1o4+ca1o2h2（均小寫）
+欢迎问曰：github.com/chenghaotian
+欢迎问曰：gitee.com/sky-eye
+欢迎笺曰：dboycht@qq.com
