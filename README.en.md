@@ -17,10 +17,14 @@
 
 
 - Cheng Haotian
+- Email: dboycht@qq.com
+- Gitee: gitee.com/sky-eye
 
 
 
 
 #### Update log
 
-- --
+- Only the chemical equation solving program V0.11 https://github.com/chenghaotian/Cheq
+
+- Support China, Britain, Japan and Russia (Chinese includes simplified, traditional and classical Chinese)
