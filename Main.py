@@ -2,6 +2,14 @@
 import json
 import tkinter
 from tkinter import messagebox
+"""
+author: CHT(D BOY; 成昊天)
+E-mail: dboycht@qq.com
+Welcome to visit my gitee or github!
+gitee: gitee.com/sky-eye
+github: github.com/chenghaotian
+Environment: python 3.9.0
+"""
 
 w = tkinter.Tk()
 w.title("Cheq-foreign-pu V0.12")
